@@ -6,11 +6,12 @@
 
 ## 📸 Project Mockup
 
-> **Replace the image below with your mockup after creating it.**
+
 
 <p align="center">
 
-<!-- Add your mockup image here -->
+!
+[Notes App Mockup](./mockup.png)
 
 <img src="./assets/mockup.png" alt="Notes App Mockup" width="900"/>
 

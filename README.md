@@ -10,10 +10,9 @@
 
 <p align="center">
 
-!
-[Notes App Mockup](../mockup.png)
 
-<img src="../assets/mockup.png" alt="Notes App Mockup" width="900"/>
+
+  <img src="./src/assets/mockup.png" alt="Notes App Mockup" width="900">
 
 </p>
 
